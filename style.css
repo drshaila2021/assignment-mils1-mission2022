@@ -13,7 +13,7 @@ h1 {
 }
 .link-button {
   text-decoration: none;
-  background-image: linear-gradient(white blue);
+  background-color: gold;
   border-radius: 5px;
   padding: 10px;
 }
@@ -85,6 +85,8 @@ h3 {
   background-position: right;
   display: flex;
   padding-left: 5%;
+  margin-top: 8%;
+  margin-bottom: 10%;
 }
 
 .fourth-part img {
@@ -93,4 +95,26 @@ h3 {
 }
 .fourth-part {
   margin-right: 10%;
+}
+.programinghero-color {
+  color: orangered;
+}
+.fifth-section {
+  display: flex;
+  margin-bottom: 15%;
+}
+.fifth-part {
+  width: 50%;
+}
+.fifth-part img {
+  margin-left: 20%;
+}
+footer {
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+h4 {
+  font-size: 30px;
+  font-style: italic;
 }
