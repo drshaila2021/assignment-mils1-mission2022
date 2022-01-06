@@ -1,0 +1,78 @@
+b {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+h1 {
+  font-size: 40px;
+  border-left: 5px solid chocolate;
+  padding-left: 8px;
+}
+.head-color {
+  color: blue;
+  :flex-direction: ;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(white blue);
+  border-radius: 5px;
+  padding: 10px;
+}
+.first-section {
+  display: flex;
+  padding-bottom: 10px;
+}
+.part-width {
+  width: 50%;
+  padding-left: 5%;
+}
+.part-width img {
+  width: 60%;
+  padding-left: 10%;
+}
+h2 {
+  text-align: center;
+  font-size: 50px;
+}
+.year-color {
+  color: deepskyblue;
+}
+.parts-elements {
+  display: flex;
+}
+.parts-item1 {
+  background: cornsilk;
+  margin: 3%;
+  width: 25%;
+  padding: 10px 80px;
+}
+.parts-item2 {
+  background-color: cyan;
+  margin: 3%;
+  width: 25%;
+  padding: 10px 80px;
+}
+.parts-item3 {
+  background-color: darkseagreen;
+  margin: 3%;
+  width: 25%;
+  padding: 10px 80px;
+}
+
+.image-size {
+  width: 50%;
+}
+.third-section {
+  display: flex;
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: rights;
+  margin: 50px;
+  padding-top: 50px;
+}
+.third-part {
+  width: 50%;
+}
+.image-coding {
+  width: 70%;
+  margin-left: 80px;
+}
